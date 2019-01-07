@@ -1,0 +1,17 @@
+﻿<html>
+<head>
+<title>misterdonut(麥當勞)</title>
+</head>
+<body background="3.png">
+
+<h1><font face="微軟正黑體">全世界最大的快速餐飲服務餐廳</font></h1>
+
+<a href=.html#photo1>品牌故事</a>
+&nbsp;
+<a href=.html#photo2>企業承諾</a>
+&nbsp;
+<a href=.html#photo3>從小到大的記憶</a>
+
+
+</body>
+</html>
